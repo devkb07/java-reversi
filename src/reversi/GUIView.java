@@ -35,8 +35,8 @@ public class GUIView implements IView{
 		frame2.setTitle("Reversi - black player");
 		frame2.setLayout(new BorderLayout());
 		
-		label1.setText("KUTAS");
-		label2.setText("KUTAS");
+		label1.setText("test");
+		label2.setText("test");
 		frame1.add(label1, BorderLayout.NORTH);
 		frame2.add(label2, BorderLayout.NORTH);
 		
