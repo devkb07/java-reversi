@@ -1,1 +1,2 @@
-# java-reversi
+# Reversi in Java
+![reversi gif](reversi.gif)
