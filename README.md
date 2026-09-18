@@ -18,4 +18,4 @@
 * GUI Library: Swing
 * Design Pattern: Model View Controller (MVC)
 * Testing: JUnit 5, using a custom test view
-* AI: Greedy Opponent evaluates optimal immediate move
+* AI: Greedy opponent evaluates optimal immediate move
